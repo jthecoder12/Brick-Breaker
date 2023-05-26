@@ -6,7 +6,7 @@ Use A to move left and D to move right.
 
 Try to destroy all the bricks.
 
-[Releases](/releases)
+[Releases](../../releases)
 
 
 [Click Here](https://jthecoder12.github.io/Brick-Breaker)
