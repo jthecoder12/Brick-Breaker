@@ -1,6 +1,6 @@
 # Important
 I am no longer maintaining this, please play the new version.
-[**Click here for the new version**](https://github.com/jthecoder12/BrickBreakerNew)
+[**Click here for the new version**](https://github.com/jthecoder12/BrickBreakerNew).
 The new brick breaker is still in development.
 
 **Original description:**
